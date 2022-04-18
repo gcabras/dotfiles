@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = graziacabras.gcabras@gmail.com
+	name = Grazia Cabras
